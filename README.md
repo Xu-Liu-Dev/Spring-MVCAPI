@@ -1,0 +1,1 @@
+Spring‑MVCAPI is a lightweight framework built on Spring MVC, offering simplified APIs for building structured web applications. It provides clean controller patterns, unified request/response handling, view resolution support, and extensible components for creating maintainable Java web projects.
